@@ -1,10 +1,9 @@
 package exercicios;
 
-public class produtos {
+public class Produtos {
     public static void main(String[] args){
         String product1 = "Computer";
         String product2 = "Desk top";
-
         Integer age = 30;
         Integer code = 52336;
         Character gender = 'F';
@@ -12,6 +11,7 @@ public class produtos {
         Double price1 = 2434.324;
         Double price2 = 566D;
         Double measure = 23.44324;
+
 
         System.out.println("Products");
         System.out.printf("%s, which price is $ %.2f \n " +
