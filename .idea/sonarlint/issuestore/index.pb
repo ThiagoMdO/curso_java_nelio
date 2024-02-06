@@ -25,3 +25,19 @@ C
 src/secao6/For.java,9\8\9841570cee6b256421e0d3cbc56a25c727e44aad
 G
 src/secao6/DoWhile.java,b\a\bac18d16aa0e96c9349df27df07be20dcc7b93f2
+G
+src/secao7/Program.java,9\a\9a4273f5def1cc7f190723c884f7b060311f5937
+O
+src/secao7/StringFunctions.java,3\e\3e4a4728090d04495a517f4f75783f3fcd282c23
+H
+src/secao7/Program2.java,5\5\5540218ae6d98ce92fdc7e84f858fad016d576e3
+J
+src/secao8/Aplication.java,2\3\233d2fe2535e140c4793c1fecfa62da64f4a37bb
+G
+src/secao8/Program.java,8\c\8c72292f3619454fe173891c6f556bdedae55298
+N
+src/secao8/model/Triangle.java,9\e\9e7ea146fa593767fc2090d28f99cc1d221feb54
+C
+src/secao8/run.java,b\d\bd84bc7b07feccb6d1f7fe729c2a67bf312fdafe
+T
+$src/secao8/teste/TriangleRunner.java,d\e\de194c078a70387cc30f27f3873dfdd86ebc3ed8

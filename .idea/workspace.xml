@@ -5,25 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44cfb215-7e32-46b2-8778-864b1eeaeb3d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/09df01be76ab43931f3ac40c1ece4efccbd4b170" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0f50c42361b12736a58d407215b766ea6bc76e60" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/9/09df01be76ab43931f3ac40c1ece4efccbd4b170" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/f/0f50c42361b12736a58d407215b766ea6bc76e60" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/EntradaDados2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/FuncoesMatematica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/ProbExDiaSemana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/ProblemaExemplo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/ProcessamentoDados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/TestScanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao6/DoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao6/For.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao6/While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao7/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao7/Program2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao7/StringFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao8/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao8/model/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao8/teste/TriangleRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicios/produtos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicios/Produtos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,21 +39,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/Java/curso_java_nelio&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/User/Desktop/Java/Projetos/maratona-java"
   }
-}</component>
-  <component name="RunManager" selected="Application.DoWhile">
-    <configuration name="DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao6.DoWhile" />
+}]]></component>
+  <component name="RunManager" selected="Application.TriangleRunner">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao7.Program" />
       <module name="curso_java_nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao6.*" />
+          <option name="PATTERN" value="secao7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="For" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao6.For" />
+    <configuration name="Program2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao7.Program2" />
       <module name="curso_java_nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao6.*" />
+          <option name="PATTERN" value="secao7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao6.Main" />
+    <configuration name="StringFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao7.StringFunctions" />
       <module name="curso_java_nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao6.*" />
+          <option name="PATTERN" value="secao7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProbExDiaSemana" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicios.ProbExDiaSemana" />
+    <configuration name="TriangleRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao8.teste.TriangleRunner" />
       <module name="curso_java_nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercicios.*" />
+          <option name="PATTERN" value="secao8.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="While" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao6.While" />
+    <configuration name="secao8.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao8.Program" />
       <module name="curso_java_nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao6.*" />
+          <option name="PATTERN" value="secao8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DoWhile" />
-        <item itemvalue="Application.For" />
-        <item itemvalue="Application.While" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ProbExDiaSemana" />
+        <item itemvalue="Application.TriangleRunner" />
+        <item itemvalue="Application.secao8.Program" />
+        <item itemvalue="Application.Program2" />
+        <item itemvalue="Application.StringFunctions" />
+        <item itemvalue="Application.Program" />
       </list>
     </recent_temporary>
   </component>
