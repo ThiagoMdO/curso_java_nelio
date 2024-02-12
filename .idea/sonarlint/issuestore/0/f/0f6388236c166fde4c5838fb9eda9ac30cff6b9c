@@ -1,0 +1,18 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(å›ñÚúÿÿÿÿ8Õ ñØ1
+G	java:S106"+Replace this use of System.out by a logger.(çÇì³8’Õ ñØ1
+n
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÁÀõ¼8’Õ ñØ1
+G	java:S106"+Replace this use of System.out by a logger.(ÁÀõ¼8“Õ ñØ1
+L	java:S106"+Replace this use of System.out by a logger.(‡äÌïüÿÿÿÿ8“Õ ñØ1
+G	java:S106"+Replace this use of System.out by a logger.(ğË¹¶8“Õ ñØ1
+L	java:S106 "+Replace this use of System.out by a logger.(ªºå»ıÿÿÿÿ8“Õ ñØ1
+s
+java:S34574"Q%n should be used in place of \n to produce the platform-specific line separator.(¢ƒ¶—üÿÿÿÿ8¦Õ ñØ1
+L	java:S1064"+Replace this use of System.out by a logger.(¢ƒ¶—üÿÿÿÿ8¦Õ ñØ1
+s
+java:S34575"Q%n should be used in place of \n to produce the platform-specific line separator.(“‹øÕøÿÿÿÿ8¦Õ ñØ1
+L	java:S1065"+Replace this use of System.out by a logger.(“‹øÕøÿÿÿÿ8§Õ ñØ1
+G	java:S1068"+Replace this use of System.out by a logger.(ÄÃç8§Õ ñØ1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8±È¨ñØ1

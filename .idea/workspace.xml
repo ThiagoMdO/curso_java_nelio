@@ -5,38 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44cfb215-7e32-46b2-8778-864b1eeaeb3d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/secao8/model/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao8/model/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao8/model/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao8/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao8/teste/CurrencyConverterRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao8/teste/EmployeeRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao8/teste/ProductRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao8/teste/Raio01Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao8/teste/Raio02Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao8/teste/Raio03Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao8/teste/RectangleRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao8/teste/StudentRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao8/util/Calculator02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao8/util/Calculator03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao8/util/CurrencyConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao9/model/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao9/model/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao9/model/Product02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao9/teste/BankAccountRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao9/teste/ProductRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao9/teste/ProductRunner02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/3/233d2fe2535e140c4793c1fecfa62da64f4a37bb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/e/9e7ea146fa593767fc2090d28f99cc1d221feb54" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/e/9e7ea146fa593767fc2090d28f99cc1d221feb54" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bd84bc7b07feccb6d1f7fe729c2a67bf312fdafe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/e/de194c078a70387cc30f27f3873dfdd86ebc3ed8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/e/de194c078a70387cc30f27f3873dfdd86ebc3ed8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/AbaixoDaMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/AlturaPessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/AlturaPessoaRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/Aprovados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/DadosPessoas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/MaiorPosicao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/MaisVelho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/MediaPares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/NegativeRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/Negativos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/NumerosPares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/Program02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/SomaVetores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/SumAndAVG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/SumAndAVGRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao10/model/AlturaPessoaClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao10/model/Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao10/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao10/model/SumAndAVGClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/3/233d2fe2535e140c4793c1fecfa62da64f4a37bb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/d/bd84bc7b07feccb6d1f7fe729c2a67bf312fdafe" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/secao8/model/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao8/model/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/secao8/teste/TriangleRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao8/teste/TriangleRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,13 +67,13 @@
       <recent name="secao9.model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BankAccountRunner">
-    <configuration name="BankAccountRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao9.teste.BankAccountRunner" />
+  <component name="RunManager" selected="Application.DadosPessoas">
+    <configuration name="AbaixoDaMedia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao10.aplication.AbaixoDaMedia" />
       <module name="curso_java_nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao9.teste.*" />
+          <option name="PATTERN" value="secao10.aplication.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CurrencyConverterRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao8.teste.CurrencyConverterRunner" />
+    <configuration name="Aprovados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao10.aplication.Aprovados" />
       <module name="curso_java_nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao8.teste.*" />
+          <option name="PATTERN" value="secao10.aplication.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao9.teste.ProductRunner" />
+    <configuration name="DadosPessoas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao10.aplication.DadosPessoas" />
       <module name="curso_java_nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao9.teste.*" />
+          <option name="PATTERN" value="secao10.aplication.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductRunner02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao9.teste.ProductRunner02" />
+    <configuration name="MaisVelho" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao10.aplication.MaisVelho" />
       <module name="curso_java_nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao9.teste.*" />
+          <option name="PATTERN" value="secao10.aplication.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Raio03Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao8.teste.Raio03Runner" />
+    <configuration name="MediaPares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao10.aplication.MediaPares" />
       <module name="curso_java_nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao8.teste.*" />
+          <option name="PATTERN" value="secao10.aplication.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BankAccountRunner" />
-        <item itemvalue="Application.ProductRunner02" />
-        <item itemvalue="Application.ProductRunner" />
-        <item itemvalue="Application.CurrencyConverterRunner" />
-        <item itemvalue="Application.Raio03Runner" />
+        <item itemvalue="Application.DadosPessoas" />
+        <item itemvalue="Application.Aprovados" />
+        <item itemvalue="Application.MaisVelho" />
+        <item itemvalue="Application.MediaPares" />
+        <item itemvalue="Application.AbaixoDaMedia" />
       </list>
     </recent_temporary>
   </component>
@@ -186,6 +177,16 @@
           <url>file://$PROJECT_DIR$/src/secao6/Main.java</url>
           <line>21</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/secao10/aplication/DadosPessoas.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/secao10/aplication/DadosPessoas.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -1,0 +1,18 @@
+
+b
+java:S2184/"@Cast one of the operands of this integer division to a "double".(ªã¡”ıÿÿÿÿ8Ïº†ïØ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(å›ñÚúÿÿÿÿ8Ïº†ïØ1
+L	java:S106"+Replace this use of System.out by a logger.(Æõ¤½ûÿÿÿÿ8òº†ïØ1
+n
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÁÀõ¼8óº†ïØ1
+G	java:S106"+Replace this use of System.out by a logger.(ÁÀõ¼8óº†ïØ1
+L	java:S106"+Replace this use of System.out by a logger.(‡äÌïüÿÿÿÿ8óº†ïØ1
+G	java:S106"+Replace this use of System.out by a logger.(ğË¹¶8óº†ïØ1
+L	java:S106!"+Replace this use of System.out by a logger.(ªºå»ıÿÿÿÿ8óº†ïØ1
+n
+java:S34571"Q%n should be used in place of \n to produce the platform-specific line separator.(Ÿ†8ôº†ïØ1
+G	java:S1061"+Replace this use of System.out by a logger.(Ÿ†8ôº†ïØ1
+n
+java:S34572"Q%n should be used in place of \n to produce the platform-specific line separator.(êáè8ôº†ïØ1
+G	java:S1062"+Replace this use of System.out by a logger.(êáè8ôº†ïØ1
+L	java:S1065"+Replace this use of System.out by a logger.(çÉÇîüÿÿÿÿ8ªş†ïØ1
