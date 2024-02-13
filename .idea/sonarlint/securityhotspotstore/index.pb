@@ -119,13 +119,19 @@ U
 %src/secao10/aplication/Aprovados.java,d\5\d5b2803707b4398b91def6106fbff3994da62898
 X
 (src/secao10/aplication/DadosPessoas.java,e\1\e1afa912cda278119559b187d54652337b24be9e
-Y
-)src/secao10/aplication/AluguelQuarto.java,b\d\bdbac4d26867b03c17eac83a99b8273dff1cb385
-W
-'src/secao10/model/EstudanteAluguel.java,9\6\9643094a8bce92b741ec543cdc2428d8db918493
 U
 %src/secao10/model/QuartosAluguel.java,1\e\1ef2be74f16bf9a9c6264e671f5871a564b83c55
 _
 /src/secao10/aplication/AluguelQuartoRunner.java,9\d\9d8f6da1314efc28a8b7b2896f2020fcfe393344
 X
 (src/secao10/model/EstudantesAluguel.java,c\c\cc0a973488feb325ea5c5ba90f295e4b2581878e
+Z
+*src/secao10/aplication/ExemploForEach.java,8\e\8ee7cf77a06cf946f9daf59256deec13e6a0d8dd
+N
+src/secao10/listas/Listas.java,a\6\a630668334a09ea0eb4ea5dcb99245bb51fbf402
+O
+src/secao10/model/Employee.java,a\d\ad3002e0f1b66ed424b5341cc20178621d2f0870
+Z
+*src/secao10/aplication/EmployeeRunner.java,2\6\261f8c5c1917bf72db5a66033823c2a1f2cad515
+P
+ src/secao10/model/Employees.java,a\c\aca1ce5b8f292b6a7c8ac7af4580010e74187f65

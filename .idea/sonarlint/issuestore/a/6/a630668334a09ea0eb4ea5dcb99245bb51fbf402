@@ -1,0 +1,26 @@
+
+c
+java:S1192<"FDefine a constant instead of duplicating this literal "Mario" 3 times.(•è·Š8ö°¨•Ú1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆÉÚ»8÷°¨•Ú1
+G	java:S106"+Replace this use of System.out by a logger.(Áªø8‘±¨•Ú1
+L	java:S106"+Replace this use of System.out by a logger.(İ˜½…ùÿÿÿÿ8‘±¨•Ú1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8‘±¨•Ú1
+G	java:S106"+Replace this use of System.out by a logger.(Áªø8’±¨•Ú1
+L	java:S106"+Replace this use of System.out by a logger.(İ˜½…ùÿÿÿÿ8’±¨•Ú1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8’±¨•Ú1
+G	java:S106""+Replace this use of System.out by a logger.(Áªø8“±¨•Ú1
+L	java:S106%"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8“±¨•Ú1
+G	java:S106("+Replace this use of System.out by a logger.(Áªø8“±¨•Ú1
+L	java:S106+"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8”±¨•Ú1
+G	java:S1062"+Replace this use of System.out by a logger.(Áªø8”±¨•Ú1
+L	java:S1066"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8•±¨•Ú1
+G	java:S1068"+Replace this use of System.out by a logger.(Áªø8•±¨•Ú1
+G	java:S106;"+Replace this use of System.out by a logger.(«»î”8•±¨•Ú1
+G	java:S106<"+Replace this use of System.out by a logger.(•è·Š8•±¨•Ú1
+G	java:S106C"+Replace this use of System.out by a logger.(•è·Š8–±¨•Ú1
+L	java:S106E"+Replace this use of System.out by a logger.(åÕ¹ÿÿÿÿÿ8–±¨•Ú1
+o
+java:S6204G"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(à”’•8–±¨•Ú1
+G	java:S106J"+Replace this use of System.out by a logger.(Áªø8—±¨•Ú1
+L	java:S106M"+Replace this use of System.out by a logger.(åÕ¹ÿÿÿÿÿ8—±¨•Ú1
+G	java:S106Q"+Replace this use of System.out by a logger.(«‹Îõ8¸à¨•Ú1

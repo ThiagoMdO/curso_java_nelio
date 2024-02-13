@@ -1,16 +1,0 @@
-
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(å›ñÚúÿÿÿÿ8¸‘ŸıÙ1
-W
-java:S1118":Add a private constructor to hide the implicit public one.(¡åÖ¤8¼‘ŸıÙ1
-]
-java:S1854";Remove this useless assignment to local variable "quartos".(»›Ã€şÿÿÿÿ8¼‘ŸıÙ1
-M
-java:S1172"+Remove this unused method parameter "args".(×­Éêşÿÿÿÿ8¼‘ŸıÙ1
-L	java:S106
-"+Replace this use of System.out by a logger.(ÍÍ›ÿøÿÿÿÿ8¾‘ŸıÙ1
-N
-java:S1481",Remove this unused "quartos" local variable.(»›Ã€şÿÿÿÿ8¿‘ŸıÙ1
-n
-java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ö½µÑ8¿‘ŸıÙ1
-G	java:S106"+Replace this use of System.out by a logger.(Ö½µÑ8¿‘ŸıÙ1
-G	java:S106"+Replace this use of System.out by a logger.(Ôç¢×8¿‘ŸıÙ1
