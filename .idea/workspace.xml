@@ -5,26 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44cfb215-7e32-46b2-8778-864b1eeaeb3d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/AbaixoDaMedia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/AlturaPessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/AlturaPessoaRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/Aprovados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/DadosPessoas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/MaiorPosicao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/MaisVelho.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/MediaPares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/NegativeRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/Negativos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/NumerosPares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/Program02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/SomaVetores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/SumAndAVG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/SumAndAVGRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao10/model/AlturaPessoaClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao10/model/Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao10/model/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao10/model/SumAndAVGClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/AluguelQuartoRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao10/model/EstudantesAluguel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao10/model/QuartosAluguel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -53,23 +36,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/Java/curso_java_nelio&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/User/Desktop/Java/curso_java_nelio",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="secao9.teste" />
       <recent name="secao9.model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DadosPessoas">
-    <configuration name="AbaixoDaMedia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao10.aplication.AbaixoDaMedia" />
+  <component name="RunManager" selected="Application.AluguelQuartoRunner">
+    <configuration name="AluguelQuartoRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao10.aplication.AluguelQuartoRunner" />
       <module name="curso_java_nelio" />
       <extension name="coverage">
         <pattern>
@@ -135,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AluguelQuartoRunner" />
         <item itemvalue="Application.DadosPessoas" />
         <item itemvalue="Application.Aprovados" />
         <item itemvalue="Application.MaisVelho" />
         <item itemvalue="Application.MediaPares" />
-        <item itemvalue="Application.AbaixoDaMedia" />
       </list>
     </recent_temporary>
   </component>
