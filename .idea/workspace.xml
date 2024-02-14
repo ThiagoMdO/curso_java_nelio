@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44cfb215-7e32-46b2-8778-864b1eeaeb3d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/EmployeeRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/ExemploForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao10/listas/Listas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao10/model/Employees.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/9643094a8bce92b741ec543cdc2428d8db918493" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bdbac4d26867b03c17eac83a99b8273dff1cb385" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/Matrizes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao10/aplication/Matrizes2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao11/aplication/DataProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao11/aplication/DataProgram02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao11/aplication/DataProgram03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao11/aplication/DateProgram04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/d/ad3002e0f1b66ed424b5341cc20178621d2f0870" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/6/9643094a8bce92b741ec543cdc2428d8db918493" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/d/bdbac4d26867b03c17eac83a99b8273dff1cb385" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/d/ad3002e0f1b66ed424b5341cc20178621d2f0870" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -46,7 +46,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/Java/curso_java_nelio&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/Compass/week-8(challenge)/challenge01-master&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
@@ -56,13 +56,13 @@
       <recent name="secao9.model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EmployeeRunner">
-    <configuration name="AluguelQuartoRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao10.aplication.AluguelQuartoRunner" />
+  <component name="RunManager" selected="Application.DateProgram04">
+    <configuration name="DataProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao11.aplication.DataProgram" />
       <module name="curso_java_nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao10.aplication.*" />
+          <option name="PATTERN" value="secao11.aplication.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DadosPessoas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao10.aplication.DadosPessoas" />
+    <configuration name="DataProgram02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao11.aplication.DataProgram02" />
       <module name="curso_java_nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao10.aplication.*" />
+          <option name="PATTERN" value="secao11.aplication.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao10.aplication.EmployeeRunner" />
+    <configuration name="DataProgram03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao11.aplication.DataProgram03" />
       <module name="curso_java_nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao10.aplication.*" />
+          <option name="PATTERN" value="secao11.aplication.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExemploForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao10.aplication.ExemploForEach" />
+    <configuration name="DateProgram04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao11.aplication.DateProgram04" />
       <module name="curso_java_nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao10.aplication.*" />
+          <option name="PATTERN" value="secao11.aplication.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Listas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao10.listas.Listas" />
+    <configuration name="Matrizes2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao10.aplication.Matrizes2" />
       <module name="curso_java_nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao10.listas.*" />
+          <option name="PATTERN" value="secao10.aplication.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EmployeeRunner" />
-        <item itemvalue="Application.Listas" />
-        <item itemvalue="Application.ExemploForEach" />
-        <item itemvalue="Application.AluguelQuartoRunner" />
-        <item itemvalue="Application.DadosPessoas" />
+        <item itemvalue="Application.DateProgram04" />
+        <item itemvalue="Application.DataProgram03" />
+        <item itemvalue="Application.DataProgram02" />
+        <item itemvalue="Application.DataProgram" />
+        <item itemvalue="Application.Matrizes2" />
       </list>
     </recent_temporary>
   </component>
@@ -177,8 +177,18 @@
           <line>39</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/secao10/aplication/Matrizes2.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="matiz[i]" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/curso_java_nelio$Main.ic" NAME="Main Coverage Results" MODIFIED="1706920033010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
