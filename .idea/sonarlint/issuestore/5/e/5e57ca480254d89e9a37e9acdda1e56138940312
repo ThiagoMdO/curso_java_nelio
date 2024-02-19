@@ -1,6 +1,6 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Š·Ó×8ƒÜø“Ü1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Š·Ó×8¶æØ–Ü1
 ‚
-java:S4165"eRemove this useless assignment; "columns" already holds the assigned value along all execution paths.(Ò¡„š8…Üø“Ü1
+java:S4165"eRemove this useless assignment; "columns" already holds the assigned value along all execution paths.(Ò¡„š8¹æØ–Ü1
 L
-java:S1656"/Remove or correct this useless self-assignment.(Ò¡„š8ŠÜø“Ü1
+java:S1656"/Remove or correct this useless self-assignment.(Ò¡„š8¼æØ–Ü1
