@@ -247,3 +247,7 @@ _
 /src/secao16_jogoXadrez/application/Program.java,7\8\78c21cca95e4fcfa0f3e6d8d44810b3c5b29e139
 ^
 .src/secao16_jogoXadrez/boardgame/Position.java,9\c\9c7a8e580428a7333b0180fc90208aee66b95977
+[
++src/secao16_jogoXadrez/boardgame/Piece.java,1\2\127a62dfb7a0ea31a20754b0d537610ddd27afeb
+[
++src/secao16_jogoXadrez/boardgame/Board.java,5\e\5e57ca480254d89e9a37e9acdda1e56138940312

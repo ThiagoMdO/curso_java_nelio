@@ -1,3 +1,6 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òËĞÑ8ë¥¦“Ü1
-L	java:S106	"+Replace this use of System.out by a logger.(õƒîÿÿÿÿÿ8ñ¥¦“Ü1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òËĞÑ8„°Ü“Ü1
+[
+java:S1854	"9Remove this useless assignment to local variable "board".(Ñ­âÓÿÿÿÿÿ8†°Ü“Ü1
+L
+java:S1481	"*Remove this unused "board" local variable.(Ñ­âÓÿÿÿÿÿ8ˆ°Ü“Ü1
