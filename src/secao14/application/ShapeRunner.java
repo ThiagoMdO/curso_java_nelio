@@ -64,5 +64,7 @@ public class ShapeRunner {
         for(Shape obj : shapeList){
             System.out.println(String.format("%.2f",obj.area()));
         }
+
+        scanner.close();
     }
 }

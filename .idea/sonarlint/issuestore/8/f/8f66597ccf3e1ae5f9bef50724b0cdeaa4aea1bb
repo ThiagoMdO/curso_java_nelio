@@ -1,0 +1,36 @@
+
+{
+java:S1192"^Define a constant instead of duplicating this literal "Check-out date (DD/MM/YYYY): " 5 times.(å™¡ô8ŸœøÛ1
+z
+java:S1192"]Define a constant instead of duplicating this literal "Check-in date (DD/MM/YYYY): " 5 times.(­ñŠË8ŸœøÛ1
+n
+java:S1192"LDefine a constant instead of duplicating this literal "dd/MM/yyyy" 10 times.( è¬¨ùÿÿÿÿ8 œøÛ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Š¼Ç8¡œøÛ1
+G	java:S106"+Replace this use of System.out by a logger.(İéÛé8§ŸøÛ1
+G	java:S106"+Replace this use of System.out by a logger.(­ñŠË8¨ŸøÛ1
+G	java:S106"+Replace this use of System.out by a logger.(å™¡ô8¨ŸøÛ1
+]	java:S125""<This block of commented-out lines of code should be removed.(„ûùøüÿÿÿÿ8©ŸøÛ1
+L	java:S106%"+Replace this use of System.out by a logger.(ÌÖñşÿÿÿÿ8©ŸøÛ1
+G	java:S106&"+Replace this use of System.out by a logger.(­ñŠË8©ŸøÛ1
+G	java:S106*"+Replace this use of System.out by a logger.(å™¡ô8ªŸøÛ1
+L	java:S1060"+Replace this use of System.out by a logger.(ôïúÿÿÿÿ8«ŸøÛ1
+L	java:S1062"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8«ŸøÛ1
+F	java:S1063"+Replace this use of System.out by a logger.(©ôÁ8«ŸøÛ1
+G	java:S1065"+Replace this use of System.out by a logger.(­ñŠË8«ŸøÛ1
+G	java:S1069"+Replace this use of System.out by a logger.(å™¡ô8¬ŸøÛ1
+G	java:S106@"+Replace this use of System.out by a logger.(îí‡Ë8­ŸøÛ1
+L	java:S106A"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8­ŸøÛ1
+F	java:S106B"+Replace this use of System.out by a logger.(©ôÁ8­ŸøÛ1
+G	java:S106D"+Replace this use of System.out by a logger.(­ñŠË8­ŸøÛ1
+G	java:S106H"+Replace this use of System.out by a logger.(å™¡ô8­ŸøÛ1
+L	java:S106O"+Replace this use of System.out by a logger.(ÌÖñşÿÿÿÿ8®ŸøÛ1
+G	java:S106P"+Replace this use of System.out by a logger.(­ñŠË8®ŸøÛ1
+G	java:S106T"+Replace this use of System.out by a logger.(å™¡ô8¯ŸøÛ1
+]	java:S125["<This block of commented-out lines of code should be removed.(„ûùøüÿÿÿÿ8°ŸøÛ1
+]	java:S125]"<This block of commented-out lines of code should be removed.(Ê‘ş¬ÿÿÿÿÿ8°ŸøÛ1
+L	java:S106a"+Replace this use of System.out by a logger.(ôïúÿÿÿÿ8°ŸøÛ1
+L	java:S106e"+Replace this use of System.out by a logger.(‰’Œøÿÿÿÿ8°ŸøÛ1
+G	java:S106g"+Replace this use of System.out by a logger.(ãƒÂâ8°ŸøÛ1
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8±ŸøÛ1
+X	java:S125q"<This block of commented-out lines of code should be removed.(¶ŸŸÀ8±ŸøÛ1

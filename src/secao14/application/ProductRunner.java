@@ -60,5 +60,7 @@ public class ProductRunner {
         for (Product obj : productList){
             System.out.println(obj.priceTag());
         }
+
+        scanner.close();
     }
 }

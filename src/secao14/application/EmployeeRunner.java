@@ -56,5 +56,6 @@ public class EmployeeRunner {
             System.out.println(obj);
         }
 
+        scanner.close();
     }
 }

@@ -70,6 +70,5 @@ public class ContribuintesRunner {
         System.out.println();
         System.out.println("TOTAL TAXES: $ " + String.format("%.2f", totImpost));
 
-
     }
 }
