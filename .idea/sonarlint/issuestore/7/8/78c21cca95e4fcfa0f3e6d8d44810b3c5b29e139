@@ -1,6 +1,4 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òËÐÑ8„°Ü“Ü1
-[
-java:S1854	"9Remove this useless assignment to local variable "board".(Ñ­âÓÿÿÿÿÿ8†°Ü“Ü1
-L
-java:S1481	"*Remove this unused "board" local variable.(Ñ­âÓÿÿÿÿÿ8ˆ°Ü“Ü1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òËÐÑ8Ó³¬–Ü1
+]
+java:S1128"@Remove this unused import 'secao16_jogoXadrez.chess.ChessPiece'.(¼…óŸ8æ³¬–Ü1

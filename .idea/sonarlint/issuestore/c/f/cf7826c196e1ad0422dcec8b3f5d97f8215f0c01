@@ -1,0 +1,14 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òËĞÑ8åĞ³–Ü1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(°Ë…¸8ğĞ³–Ü1
+L	java:S106	"+Replace this use of System.out by a logger.(Â«…ßıÿÿÿÿ8ñĞ³–Ü1
+G	java:S106"+Replace this use of System.out by a logger.(ï„ï8ñĞ³–Ü1
+G	java:S106"+Replace this use of System.out by a logger.(‚ª¥8òĞ³–Ü1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8òĞ³–Ü1
+L	java:S106"+Replace this use of System.out by a logger.(Â«…ßıÿÿÿÿ8óĞ³–Ü1
+L	java:S106"+Replace this use of System.out by a logger.(¹¦Ô„ÿÿÿÿÿ8óĞ³–Ü1
+L	java:S106"+Replace this use of System.out by a logger.(‰Ù¬Åüÿÿÿÿ8óĞ³–Ü1
+G	java:S106"+Replace this use of System.out by a logger.(×•œ²8Ó´–Ü1
+a
+java:S1128"?Remove this unused import 'secao16_jogoXadrez.boardgame.Piece'.(ÿòÇüüÿÿÿÿ8óĞ³–Ü1

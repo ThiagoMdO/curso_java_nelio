@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44cfb215-7e32-46b2-8778-864b1eeaeb3d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/secao16_jogoXadrez/boardgame/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao16_jogoXadrez/boardgame/Piece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao16_jogoXadrez/application/UI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao16_jogoXadrez/chess/ChessMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao16_jogoXadrez/chess/ChessPiece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao16_jogoXadrez/chess/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5e57ca480254d89e9a37e9acdda1e56138940312" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5e57ca480254d89e9a37e9acdda1e56138940312" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/78c21cca95e4fcfa0f3e6d8d44810b3c5b29e139" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/78c21cca95e4fcfa0f3e6d8d44810b3c5b29e139" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/secao16_jogoXadrez/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao16_jogoXadrez/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao16_jogoXadrez/boardgame/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao16_jogoXadrez/boardgame/Board.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

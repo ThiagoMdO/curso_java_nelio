@@ -1,13 +1,14 @@
 package secao16_jogoXadrez.application;
 
-import secao16_jogoXadrez.boardgame.Board;
+import secao16_jogoXadrez.chess.ChessMatch;
+import secao16_jogoXadrez.chess.ChessPiece;
 
 public class Program {
     public static void main(String[] args) {
 
+        ChessMatch chessMatch = new ChessMatch();
 
-        Board board = new Board(8, 8);
+        UI.printBoard(chessMatch.getPieces());
 
-        
     }
 }

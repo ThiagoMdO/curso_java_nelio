@@ -251,3 +251,11 @@ _
 +src/secao16_jogoXadrez/boardgame/Piece.java,1\2\127a62dfb7a0ea31a20754b0d537610ddd27afeb
 [
 +src/secao16_jogoXadrez/boardgame/Board.java,5\e\5e57ca480254d89e9a37e9acdda1e56138940312
+W
+'src/secao16_jogoXadrez/chess/Color.java,7\5\75f8c1b9df09f31c7490595efa590eff217633ef
+\
+,src/secao16_jogoXadrez/chess/ChessPiece.java,e\7\e703d98dd1e778dc462da3677e676303ac3ec6aa
+\
+,src/secao16_jogoXadrez/chess/ChessMatch.java,a\b\ab9473725a1a9871ffc6635822c6dfc1d5f682bd
+Z
+*src/secao16_jogoXadrez/application/UI.java,c\f\cf7826c196e1ad0422dcec8b3f5d97f8215f0c01
