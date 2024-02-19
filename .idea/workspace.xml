@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44cfb215-7e32-46b2-8778-864b1eeaeb3d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/secao15/application/AccountRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao15/model/entities/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao15/model/exception/WithdranwLimitException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao16_jogoXadrez/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao16_jogoXadrez/boardgame/Position.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/78c21cca95e4fcfa0f3e6d8d44810b3c5b29e139" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/78c21cca95e4fcfa0f3e6d8d44810b3c5b29e139" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao16_jogoXadrez/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao16_jogoXadrez/application/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +50,7 @@
       <recent name="secao9.model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AccountRunner">
+  <component name="RunManager" selected="Application.Program">
     <configuration name="AccountRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="secao15.application.AccountRunner" />
       <module name="curso_java_nelio" />
@@ -83,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao15.application.Program02" />
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao16_jogoXadrez.application.Program" />
       <module name="curso_java_nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao15.application.*" />
+          <option name="PATTERN" value="secao16_jogoXadrez.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program" />
         <item itemvalue="Application.AccountRunner" />
         <item itemvalue="Application.Reservation01Runner" />
         <item itemvalue="Application.ReservationRunner" />
         <item itemvalue="Application.DateProgram04" />
-        <item itemvalue="Application.Program02" />
       </list>
     </recent_temporary>
   </component>
