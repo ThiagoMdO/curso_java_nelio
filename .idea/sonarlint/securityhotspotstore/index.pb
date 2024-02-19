@@ -267,3 +267,7 @@ V
 -src/secao16_jogoXadrez/chess/pieces/King.java,5\f\5f654e3df8269325d644bdd78a32188561670154
 d
 4src/secao16_jogoXadrez/boardgame/BoardException.java,f\3\f3bbd3d35af14c84d4fdfd678a315a85c13c5aab
+`
+0src/secao16_jogoXadrez/chess/ChessException.java,a\e\ae2df4a30cef0bf2264dfe8c6b5acb649dfd47ad
+_
+/src/secao16_jogoXadrez/chess/ChessPosition.java,d\8\d8eb049345db1f293cf6369812dc3a87819f5ecb
