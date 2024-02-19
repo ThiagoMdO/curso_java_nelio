@@ -265,3 +265,5 @@ V
 -src/secao16_jogoXadrez/chess/pieces/Rook.java,2\9\29685d0106d96f4a635d8cee3384b0f140705517
 ]
 -src/secao16_jogoXadrez/chess/pieces/King.java,5\f\5f654e3df8269325d644bdd78a32188561670154
+d
+4src/secao16_jogoXadrez/boardgame/BoardException.java,f\3\f3bbd3d35af14c84d4fdfd678a315a85c13c5aab
