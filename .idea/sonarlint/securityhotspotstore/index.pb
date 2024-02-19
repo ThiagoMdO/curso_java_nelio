@@ -237,3 +237,13 @@ V
 0src/secao15/application/Reservation01Runner.java,9\e\9e0b6ddda30db964b6482660e9ff4d2281ea20c7
 `
 0src/secao15/model/exception/DomainException.java,d\0\d0097e8b2e42c185ef3d535c5b3759670d53d3e4
+W
+'src/secao15/model/entities/Account.java,3\a\3afbd1a993456d35feb4047d83f35429e226fc9b
+Z
+*src/secao15/application/AccountRunner.java,c\c\cccf309b9f9aa5bc98889c46c929037c37878716
+h
+8src/secao15/model/exception/WithdranwLimitException.java,e\8\e80508bf6c1f077d31ea3dbcb931f87c0684e663
+_
+/src/secao16_jogoXadrez/application/Program.java,7\8\78c21cca95e4fcfa0f3e6d8d44810b3c5b29e139
+^
+.src/secao16_jogoXadrez/boardgame/Position.java,9\c\9c7a8e580428a7333b0180fc90208aee66b95977
