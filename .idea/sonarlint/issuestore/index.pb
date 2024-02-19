@@ -231,3 +231,9 @@ V
 +src/secao15/model/entities/Reservation.java,c\8\c85ccf5b38105b52f913d7fb45314e2d0093624f
 ^
 .src/secao15/application/ReservationRunner.java,8\f\8f66597ccf3e1ae5f9bef50724b0cdeaa4aea1bb
+]
+-src/secao15/model/entities/Reservation01.java,8\1\81878b4fadd17fce41ff13737450337095e32ace
+`
+0src/secao15/application/Reservation01Runner.java,9\e\9e0b6ddda30db964b6482660e9ff4d2281ea20c7
+`
+0src/secao15/model/exception/DomainException.java,d\0\d0097e8b2e42c185ef3d535c5b3759670d53d3e4
