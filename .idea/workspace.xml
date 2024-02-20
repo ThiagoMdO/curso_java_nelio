@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44cfb215-7e32-46b2-8778-864b1eeaeb3d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5e57ca480254d89e9a37e9acdda1e56138940312" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5e57ca480254d89e9a37e9acdda1e56138940312" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/78c21cca95e4fcfa0f3e6d8d44810b3c5b29e139" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/78c21cca95e4fcfa0f3e6d8d44810b3c5b29e139" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/ab9473725a1a9871ffc6635822c6dfc1d5f682bd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/ab9473725a1a9871ffc6635822c6dfc1d5f682bd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/f/cf7826c196e1ad0422dcec8b3f5d97f8215f0c01" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/f/cf7826c196e1ad0422dcec8b3f5d97f8215f0c01" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao16_jogoXadrez/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao16_jogoXadrez/application/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/secao16_jogoXadrez/application/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao16_jogoXadrez/application/UI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao16_jogoXadrez/boardgame/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao16_jogoXadrez/boardgame/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao16_jogoXadrez/chess/ChessException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao16_jogoXadrez/chess/ChessException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/secao16_jogoXadrez/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao16_jogoXadrez/chess/ChessMatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

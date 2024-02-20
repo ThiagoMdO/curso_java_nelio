@@ -1,6 +1,8 @@
 package secao16_jogoXadrez.chess;
 
 import secao16_jogoXadrez.boardgame.Board;
+import secao16_jogoXadrez.boardgame.Piece;
+import secao16_jogoXadrez.boardgame.Position;
 import secao16_jogoXadrez.chess.pieces.King;
 import secao16_jogoXadrez.chess.pieces.Rook;
 
@@ -21,6 +23,27 @@ public class ChessMatch {
             }
         }
         return mat;
+    }
+
+    public ChessPiece performChessMove(ChessPosition sourcePosition, ChessPosition targetPosition){
+        Position source = sourcePosition.toPosition();
+        Position target = targetPosition.toPosition();
+
+        validateSourcePosition(source);
+        Piece capturePiece = makeMove(source, target);
+        return (ChessPiece) capturePiece;
+    }
+
+    public Piece makeMove(Position source, Position target){
+        Piece p = board.removePiece(source);
+        Piece capturedPiece = board.removePiece(target);
+        board.placePiece(p, target);
+        return capturedPiece;
+    }
+    public void validateSourcePosition(Position position){
+        if(!board.thereIsAPiece(position)){
+            throw new ChessException("There is no piece on source position");
+        }
     }
 
     private void placeNewPiece(char column, int row, ChessPiece piece){
