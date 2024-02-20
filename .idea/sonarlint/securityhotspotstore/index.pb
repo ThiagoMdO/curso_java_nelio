@@ -269,3 +269,6 @@ d
 0src/secao16_jogoXadrez/chess/ChessException.java,a\e\ae2df4a30cef0bf2264dfe8c6b5acb649dfd47ad
 _
 /src/secao16_jogoXadrez/chess/ChessPosition.java,d\8\d8eb049345db1f293cf6369812dc3a87819f5ecb
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302

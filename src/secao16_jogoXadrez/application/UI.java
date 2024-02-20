@@ -1,6 +1,7 @@
 package secao16_jogoXadrez.application;
 
 import secao16_jogoXadrez.boardgame.Piece;
+import secao16_jogoXadrez.chess.ChessMatch;
 import secao16_jogoXadrez.chess.ChessPiece;
 import secao16_jogoXadrez.chess.ChessPosition;
 import secao16_jogoXadrez.chess.Color;
@@ -48,6 +49,14 @@ public class UI {
         }
     }
 
+    public static void printMatch(ChessMatch chessMatch){
+        printBoard(chessMatch.getPieces());
+        System.out.println();
+        System.out.println("Turn: " + chessMatch.getTurn());
+        System.out.println("Waiting player: " + chessMatch.getCurrentPlayer());
+
+
+    }
     public static void printBoard(ChessPiece[][] pieces) {
         System.out.println("  a b c d e f g h");
         for (int i = 0; i < pieces.length; i++) {
