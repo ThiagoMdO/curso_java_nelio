@@ -1,4 +1,4 @@
 
-x
-java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "mat".(ÏÕŸá8¨¿Ó¾Ü1
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—ÀÕ«ùÿÿÿÿ8ÁÝÞ–Ü1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—ÀÕ«ùÿÿÿÿ8 ’ž¿Ü1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.( ¤¸Ü8¸ó¡¿Ü1
