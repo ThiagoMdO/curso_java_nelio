@@ -259,8 +259,6 @@ W
 ,src/secao16_jogoXadrez/chess/ChessMatch.java,a\b\ab9473725a1a9871ffc6635822c6dfc1d5f682bd
 Z
 *src/secao16_jogoXadrez/application/UI.java,c\f\cf7826c196e1ad0422dcec8b3f5d97f8215f0c01
-V
-&src/secao16_jogoXadrez/chess/Rook.java,5\9\59b9720214f795adf76da4e9b5cde9427a1ffd8e
 ]
 -src/secao16_jogoXadrez/chess/pieces/Rook.java,2\9\29685d0106d96f4a635d8cee3384b0f140705517
 ]

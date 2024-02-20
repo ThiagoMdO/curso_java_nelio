@@ -1,10 +1,17 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òËĞÑ8Ÿ×œ Ü1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òËĞÑ8óâ×·Ü1
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ÿ³Ş·Ü1
 ^
-java:S1854"ARemove this useless assignment to local variable "capturedPiece".(¤ìïö8¢×œ Ü1
-L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¤×œ Ü1
-F	java:S106"+Replace this use of System.out by a logger.(èÕªm8¤×œ Ü1
-L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¤×œ Ü1
-G	java:S106"+Replace this use of System.out by a logger.(¤ûŒµ8¥×œ Ü1
+java:S1854"ARemove this useless assignment to local variable "capturedPiece".(¤ìïö8Šïİ·Ü1
+f
+java:S2147$"DCombine this catch with the one at line 33, which has the same body.(¦Œçõÿÿÿÿÿ8Ó´Ù·Ü1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8€ã×·Ü1
+F	java:S106"+Replace this use of System.out by a logger.(èÕªm8€ã×·Ü1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8€ã×·Ü1
+G	java:S106"+Replace this use of System.out by a logger.(¤ûŒµ8ã×·Ü1
 O
-java:S1481"2Remove this unused "capturedPiece" local variable.(¤ìïö8¥×œ Ü1
+java:S1481"2Remove this unused "capturedPiece" local variable.(¤ìïö8ã×·Ü1
+]	java:S125"<This block of commented-out lines of code should be removed.(Õè†–ıÿÿÿÿ8ˆÎß·Ü1
+L	java:S106""+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ã×·Ü1
+L	java:S106%"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8×´Ù·Ü1
