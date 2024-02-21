@@ -3,10 +3,10 @@ v	java:S120"ZRename this package name to match the regular expression '^[a-z_
 J
 java:S1125R"(Remove the unnecessary boolean literals.(ğîÄøÿÿÿÿ8ÖúÄèÜ1
 p
-java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(óüË¨8ÛúÄèÜ1
+java:S6204’"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(óüË¨8ÛúÄèÜ1
 u
-java:S6204›"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ı—üÿÿÿÿ8İúÄèÜ1
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ı—üÿÿÿÿ8İúÄèÜ1
 p
-java:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Üé¢à8ŞúÄèÜ1
+java:S3776§"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Üé¢à8ŞúÄèÜ1
 p
-java:S6204©"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(óüË¨8ßúÄèÜ1
+java:S6204«"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(óüË¨8ßúÄèÜ1
