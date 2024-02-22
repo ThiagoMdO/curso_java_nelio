@@ -276,3 +276,5 @@ _
 -src/secao16_jogoXadrez/chess/pieces/Pawn.java,0\c\0c31afa25ec4df5d356c9f93cb874d036c030773
 _
 /src/secao16_jogoXadrez/chess/pieces/Bishop.java,f\e\fec46e543f9321f1c6fbd9ff79d5fa1a011a8656
+_
+/src/secao16_jogoXadrez/chess/pieces/Knight.java,3\4\34a4301f8ae58815a9f67920392e8f368b7090fb
