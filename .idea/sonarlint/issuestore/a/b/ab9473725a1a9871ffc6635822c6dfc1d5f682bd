@@ -1,12 +1,16 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Χδ€8Ί¨ωρά1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Χδ€8ί±γέ1
 J
-java:S1125Q"(Remove the unnecessary boolean literals.(πξΔψÿÿÿÿ8Ω¨ωρά1
+java:S1125Q"(Remove the unnecessary boolean literals.(πξΔψÿÿÿÿ8“²γέ1
 p
-java:S6204‘"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(σόΛ¨8έ¨ωρά1
+java:S6204‘"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(σόΛ¨8—²γέ1
 u
-java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ύ—όÿÿÿÿ8ή¨ωρά1
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ύ—όÿÿÿÿ8™²γέ1
 p
-java:S3776¦"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(άιΆΰ8ί¨ωρά1
+java:S3776¦"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(άιΆΰ8›²γέ1
 p
-java:S6204ª"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(σόΛ¨8ΰ¨ωρά1
+java:S6204ª"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(σόΛ¨8›²γέ1
+^	java:S125Ζ"<This block of commented-out lines of code should be removed.(υ«µκϊÿÿÿÿ8²γέ1
+Y	java:S125Λ"<This block of commented-out lines of code should be removed.(νΠ8ζέ1
+Y	java:S125Χ"<This block of commented-out lines of code should be removed.(‰ΆΆ”8 ²γέ1
+Y	java:S125ά"<This block of commented-out lines of code should be removed.(θήξ¥8Ξ¤ζέ1
