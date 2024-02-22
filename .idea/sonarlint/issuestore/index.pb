@@ -274,3 +274,5 @@ _
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 ]
 -src/secao16_jogoXadrez/chess/pieces/Pawn.java,0\c\0c31afa25ec4df5d356c9f93cb874d036c030773
+_
+/src/secao16_jogoXadrez/chess/pieces/Bishop.java,f\e\fec46e543f9321f1c6fbd9ff79d5fa1a011a8656
