@@ -1,18 +1,18 @@
 
 L
-java:S1066`"/Merge this if statement with the enclosing one.(š¡›ş8Ú“»ºİ1
+java:S1066_"/Merge this if statement with the enclosing one.(š¡›ş8Ú“»ºİ1
 R
-java:S1066´"/Merge this if statement with the enclosing one.(Ç–ˆôüÿÿÿÿ8Ü“»ºİ1
+java:S1066³"/Merge this if statement with the enclosing one.(Ç–ˆôüÿÿÿÿ8Ü“»ºİ1
 R
-java:S1066ä"/Merge this if statement with the enclosing one.(¹Ùƒèùÿÿÿÿ8Ü“»ºİ1
+java:S1066ã"/Merge this if statement with the enclosing one.(¹Ùƒèùÿÿÿÿ8Ü“»ºİ1
 v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×ä€8Ş“»ºİ1
 J
-java:S1125g"(Remove the unnecessary boolean literals.(ğîÄøÿÿÿÿ8¢•»ºİ1
+java:S1125f"(Remove the unnecessary boolean literals.(ğîÄøÿÿÿÿ8¢•»ºİ1
 p
-java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(óüË¨8¯•»ºİ1
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(óüË¨8¯•»ºİ1
 u
-java:S6204™"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ı—üÿÿÿÿ8±•»ºİ1
+java:S6204˜"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ı—üÿÿÿÿ8±•»ºİ1
 p
-java:S3776£"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Üé¢à8²•»ºİ1
+java:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Üé¢à8²•»ºİ1
 p
-java:S6204§"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(óüË¨8²•»ºİ1
+java:S6204¦"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(óüË¨8²•»ºİ1
