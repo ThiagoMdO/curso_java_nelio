@@ -338,3 +338,17 @@ Y
 )src/secao18/model/entities/Rectangle.java,0\b\0be9f8988416ffd033badc528a314326cd3c7b13
 _
 /src/secao18/model/application/Polimorfismo.java,b\6\b6d9ba28fc0c5e0a937d74e679fec668676c8eae
+\
+,src/secao18/model/application/Program02.java,2\8\2885bfabd3b6da9bf93edf59f6722a9a9731e6e4
+X
+(src/secao18/model/entities/Employee.java,1\1\11e0ada031147f885e1a89226e959e1bbf5d7554
+e
+5src/secao18/model/application/Program02CompareTo.java,b\d\bd237d2c612112a380f906208e37f0f5c5a1e9d5
+h
+8src/secao18/model/application/InterestServiseRunner.java,5\a\5a9972b57ec160c196b98d2f346a24607a711b93
+e
+5src/secao18/model/services/BrazilInterestService.java,6\a\6a2271fb0ab50c869b830be6e05d756037b8e1d5
+b
+2src/secao18/model/services/UsaInterestService.java,6\7\67edf0ba7c340a8130d3d2f98b4974f5b6da8827
+_
+/src/secao18/model/services/InterestService.java,b\b\bbe3a298661ca10f47f1c9fc06bb75a5dfb31978
