@@ -5,16 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44cfb215-7e32-46b2-8778-864b1eeaeb3d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/secao17/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao17/fileReadAndBufferedReader/ProgramReadImproved.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao17/fileReadAndBufferedReader/PromgramRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao17/fileWriterAndBufferedWriter/ProgramWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao17/manipularPastas/GetWayDiretory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao17/manipularPastas/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao17/model/entities/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao17/teste/ProductRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/78c21cca95e4fcfa0f3e6d8d44810b3c5b29e139" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/78c21cca95e4fcfa0f3e6d8d44810b3c5b29e139" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/ab9473725a1a9871ffc6635822c6dfc1d5f682bd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/ab9473725a1a9871ffc6635822c6dfc1d5f682bd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao18/model/application/ContractRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao18/model/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao18/model/entities/CarRental.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao18/model/entities/Contract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao18/model/entities/Installment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao18/model/entities/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao18/model/entities/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao18/model/services/BrazilTaxService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao18/model/services/ContractService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao18/model/services/OnlinePaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao18/model/services/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao18/model/services/RentalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao18/model/services/TaxService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -30,6 +33,7 @@
         <option value="Record" />
         <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -61,13 +65,26 @@
       <recent name="secao9.model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProductRunner">
-    <configuration name="GetWayDiretory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao17.manipularPastas.GetWayDiretory" />
+  <component name="RunManager" selected="Application.ContractRunner">
+    <configuration name="ContractRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao18.model.application.ContractRunner" />
       <module name="curso_java_nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao17.manipularPastas.*" />
+          <option name="PATTERN" value="secao18.model.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataProgram02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao11Datas.aplication.DataProgram02" />
+      <module name="curso_java_nelio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="secao11Datas.aplication.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProgramWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao17.fileWriterAndBufferedWriter.ProgramWriter" />
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao18.model.application.Program" />
       <module name="curso_java_nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao17.fileWriterAndBufferedWriter.*" />
+          <option name="PATTERN" value="secao18.model.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,26 +131,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="secao17.manipularPastas.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao17.manipularPastas.Program" />
-      <module name="curso_java_nelio" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="secao17.manipularPastas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ContractRunner" />
+        <item itemvalue="Application.DataProgram02" />
+        <item itemvalue="Application.Program" />
         <item itemvalue="Application.ProductRunner" />
         <item itemvalue="Application.StringFunctions" />
-        <item itemvalue="Application.GetWayDiretory" />
-        <item itemvalue="Application.secao17.manipularPastas.Program" />
-        <item itemvalue="Application.ProgramWriter" />
       </list>
     </recent_temporary>
   </component>
@@ -192,6 +196,21 @@
           <line>38</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/secao18/model/services/PaymentService.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/secao18/model/services/ContractService.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/secao18/model/services/PaymentService.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.InputMismatchException" package="java.util" />
           <option name="timeStamp" value="18" />
@@ -204,6 +223,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/secao18/model/services/PaymentService.java</url>
+          <line>3</line>
+          <properties class="secao18.model.services.PaymentService" method="payment">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/secao18/model/services/PaymentService.java</url>
+          <line>7</line>
+          <properties class="secao18.model.services.PaymentService" method="interest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
