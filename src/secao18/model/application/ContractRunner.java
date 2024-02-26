@@ -1,13 +1,14 @@
 package secao18.model.application;
 
 import secao18.model.entities.Contract;
+import secao18.model.entities.Installment;
+import secao18.model.services.ContractService;
+import secao18.model.services.PaymentService;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.Locale;
 import java.util.Scanner;
-
-import static secao18.model.services.ContractService.processContract;
 
 
 public class ContractRunner {
@@ -34,8 +35,11 @@ public class ContractRunner {
 
         Contract contract = new Contract(numero, data, valorContrato);
 
+        ContractService service = new ContractService(new PaymentService());
+
         System.out.println("Parcelas: ");
 
-        processContract(contract, numerosParcelas);
+        service.processContract(contract, numerosParcelas);
+
     }
 }

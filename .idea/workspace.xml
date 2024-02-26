@@ -5,22 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44cfb215-7e32-46b2-8778-864b1eeaeb3d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/secao18/model/application/ContractRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao18/model/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao18/model/entities/CarRental.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao18/model/entities/Contract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao18/model/entities/Installment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao18/model/entities/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao18/model/entities/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao18/model/services/BrazilTaxService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao18/model/services/ContractService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao18/model/services/OnlinePaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao18/model/services/PaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao18/model/services/RentalService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao18/model/services/TaxService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao18/model/application/ContractRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao18/model/application/ContractRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao18/model/entities/Installment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao18/model/entities/Installment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao18/model/services/ContractService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao18/model/services/ContractService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao18/model/services/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao18/model/services/PaymentService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,21 +185,6 @@
           <line>38</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/secao18/model/services/PaymentService.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/secao18/model/services/ContractService.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="38" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/secao18/model/services/PaymentService.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="39" />
-        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.InputMismatchException" package="java.util" />
           <option name="timeStamp" value="18" />
@@ -223,24 +197,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/secao18/model/services/PaymentService.java</url>
-          <line>3</line>
-          <properties class="secao18.model.services.PaymentService" method="payment">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/secao18/model/services/PaymentService.java</url>
-          <line>7</line>
-          <properties class="secao18.model.services.PaymentService" method="interest">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="36" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

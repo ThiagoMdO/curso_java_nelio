@@ -4,27 +4,29 @@ import secao18.model.entities.Contract;
 import secao18.model.entities.Installment;
 
 import java.time.LocalDate;
-import java.time.format.DateTimeFormatter;
 
 public class ContractService {
 
+    private OnlinePaymentService onlinePaymentService;
 
-    public static void processContract(Contract contract, Integer months) {
-        LocalDate plusMonths = contract.getDate();
+    public ContractService(OnlinePaymentService onlinePaymentService){
+        this.onlinePaymentService = onlinePaymentService;
+    }
+
+    public void processContract(Contract contract, Integer months) {
+        Double basicQuot = contract.getTotalValue() / months;
         for (int i = 1; i <= months; i++) {
-            PaymentService paymentService = new PaymentService();
-            double media = contract.getTotalValue() / months;
+            LocalDate dueDate = contract.getDate().plusMonths(i);
 
-            Double tot = media + (paymentService.payment((media + paymentService.interest(media, i))) + paymentService.interest(media, i));
+            Double interest = onlinePaymentService.interest(basicQuot, i);
+            Double fee = onlinePaymentService.payment(basicQuot + interest);
+            Double quota = basicQuot + interest + fee;
 
-            Installment installment = new Installment(plusMonths, tot);
-            contract.addInstallments(installment);
+            contract.addInstallments(new Installment(dueDate, quota));
 
-            System.out.print(plusMonths.plusMonths(i).format(DateTimeFormatter.ofPattern("dd/MM/yyyy")) + " - ");
-
-            System.out.print(String.format("%.2f", contract.getInstallments().get(i - 1).getAmount()));
-            System.out.println();
-
+        }
+        for (Installment obj : contract.getInstallments()){
+            System.out.println(obj);
         }
     }
 }
