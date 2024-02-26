@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44cfb215-7e32-46b2-8778-864b1eeaeb3d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/secao18/model/application/Polimorfismo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao18/model/entities/AbstractShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao18/model/entities/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao18/model/services/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/secao18/model/application/ContractRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao18/model/application/ContractRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/secao18/model/entities/Installment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao18/model/entities/Installment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/secao18/model/services/ContractService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao18/model/services/ContractService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/secao18/model/services/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao18/model/services/PaymentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao18/model/services/OnlinePaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao18/model/services/OnlinePaymentService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +24,8 @@
       <list>
         <option value="Record" />
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -54,7 +57,7 @@
       <recent name="secao9.model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ContractRunner">
+  <component name="RunManager" selected="Application.Polimorfismo">
     <configuration name="ContractRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="secao18.model.application.ContractRunner" />
       <module name="curso_java_nelio" />
@@ -74,6 +77,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="secao11Datas.aplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Polimorfismo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao18.model.application.Polimorfismo" />
+      <module name="curso_java_nelio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="secao18.model.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,26 +123,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao7.StringFunctions" />
-      <module name="curso_java_nelio" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="secao7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Polimorfismo" />
         <item itemvalue="Application.ContractRunner" />
         <item itemvalue="Application.DataProgram02" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.ProductRunner" />
-        <item itemvalue="Application.StringFunctions" />
       </list>
     </recent_temporary>
   </component>
