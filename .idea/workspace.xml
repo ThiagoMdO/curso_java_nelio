@@ -5,12 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44cfb215-7e32-46b2-8778-864b1eeaeb3d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/secao18/model/application/InterestServiseRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao18/model/application/Program02CompareTo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao18/model/entities/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao18/model/services/BrazilInterestService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao18/model/services/InterestService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao18/model/services/UsaInterestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao19/application/ClientRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao19/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao19/application/ProgramCompareTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao19/application/ProgramCuringaDelimitado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao19/application/ProgramGenericosDelimitados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao19/application/ProgramPricipioGetPut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao19/application/ProgramSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao19/application/ProgramSetUID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao19/application/ProgramTiposCuringa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao19/application/ShapRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao19/model/entities/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao19/model/entities/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao19/model/entities/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao19/model/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao19/model/entities/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao19/model/entities/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao19/model/services/CalculationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao19/model/services/PrintService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao19/model/services/PrintServiceGenerics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao19/model/services/PrintServiceObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao19/model/services/PrintServiceString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -25,8 +40,8 @@
       <list>
         <option value="Record" />
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -54,18 +69,20 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="secao19.model.entities" />
+      <recent name="secao19.model.services" />
       <recent name="secao18.model.services" />
       <recent name="secao9.teste" />
       <recent name="secao9.model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InterestServiseRunner">
-    <configuration name="ContractRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao18.model.application.ContractRunner" />
+  <component name="RunManager" selected="Application.ProgramCompareTo">
+    <configuration name="ClientRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao19.application.ClientRunner" />
       <module name="curso_java_nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao18.model.application.*" />
+          <option name="PATTERN" value="secao19.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataProgram02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao11Datas.aplication.DataProgram02" />
+    <configuration name="ProgramCompareTo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao19.application.ProgramCompareTo" />
       <module name="curso_java_nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao11Datas.aplication.*" />
+          <option name="PATTERN" value="secao19.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterestServiseRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao18.model.application.InterestServiseRunner" />
+    <configuration name="ProgramSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao19.application.ProgramSet" />
       <module name="curso_java_nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao18.model.application.*" />
+          <option name="PATTERN" value="secao19.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Polimorfismo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao18.model.application.Polimorfismo" />
+    <configuration name="ProgramSetUID" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao19.application.ProgramSetUID" />
       <module name="curso_java_nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao18.model.application.*" />
+          <option name="PATTERN" value="secao19.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program02CompareTo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao18.model.application.Program02CompareTo" />
+    <configuration name="ShapRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao19.application.ShapRunner" />
       <module name="curso_java_nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao18.model.application.*" />
+          <option name="PATTERN" value="secao19.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InterestServiseRunner" />
-        <item itemvalue="Application.Program02CompareTo" />
-        <item itemvalue="Application.Polimorfismo" />
-        <item itemvalue="Application.ContractRunner" />
-        <item itemvalue="Application.DataProgram02" />
+        <item itemvalue="Application.ProgramCompareTo" />
+        <item itemvalue="Application.ProgramSetUID" />
+        <item itemvalue="Application.ProgramSet" />
+        <item itemvalue="Application.ClientRunner" />
+        <item itemvalue="Application.ShapRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -190,6 +207,11 @@
           <line>38</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/secao18/model/services/InterestService.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.InputMismatchException" package="java.util" />
           <option name="timeStamp" value="18" />
@@ -202,6 +224,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/secao18/model/services/InterestService.java</url>
+          <line>8</line>
+          <properties class="secao18.model.services.InterestService" method="payment">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="41" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
