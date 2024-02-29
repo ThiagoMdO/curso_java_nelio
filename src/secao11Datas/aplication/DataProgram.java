@@ -3,6 +3,7 @@ package secao11Datas.aplication;
 import java.time.Instant;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
+import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
 
 public class DataProgram {
@@ -14,6 +15,7 @@ public class DataProgram {
         DateTimeFormatter ft02 = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm");
 
         Instant instant = Instant.now();
+        Instant instantInBrazil = Instant.parse(instant.toString());
 
         LocalDate d04 = LocalDate.parse("2022-02-20");
         LocalDateTime d05 = LocalDateTime.parse("2024-02-14T12:10");
@@ -29,6 +31,7 @@ public class DataProgram {
         System.out.println("d01: " + d01);
         System.out.println("d01Time: " + d01Time);
         System.out.println("instant: " + instant);
+        System.out.println("instant in Brazil: " + DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ssZZZ").withZone(ZoneId.systemDefault()).format(instantInBrazil));
         System.out.println("data custom  d04 : " + d04);
         System.out.println("data2 custom: d05 " + d05);
         System.out.println("data INSTANT custom: d06 " + d06);

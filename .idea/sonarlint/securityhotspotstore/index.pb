@@ -390,3 +390,7 @@ W
 'src/secao19/model/entities/Product.java,9\2\92d7c54159c487eb47242118dbe5b95e17424761
 ]
 -src/secao19/application/ProgramCompareTo.java,7\2\7275c191e8341aa735a82a71710bb474047518fc
+X
+(src/secao19/application/ProgramLogs.java,9\2\92ab765e417d87c271cdf5900a1378d376cc028a
+X
+(src/secao19/model/entities/LogEntry.java,2\0\20bd6bbfc475b00ff03a568c3448b24433273e24

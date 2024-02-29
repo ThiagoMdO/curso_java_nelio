@@ -5,30 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44cfb215-7e32-46b2-8778-864b1eeaeb3d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/secao19/application/ClientRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao19/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao19/application/ProgramCompareTo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao19/application/ProgramCuringaDelimitado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao19/application/ProgramGenericosDelimitados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao19/application/ProgramPricipioGetPut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao19/application/ProgramSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao19/application/ProgramSetUID.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao19/application/ProgramTiposCuringa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao19/application/ShapRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao19/model/entities/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao19/model/entities/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao19/model/entities/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao19/model/entities/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao19/model/entities/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao19/model/entities/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao19/model/services/CalculationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao19/model/services/PrintService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao19/model/services/PrintServiceGenerics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao19/model/services/PrintServiceObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao19/model/services/PrintServiceString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao19/application/ProgramLogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao19/model/entities/LogEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/0/20a3fd4cbaaa2f969d6da163874b0dd7ab69e000" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/0/20a3fd4cbaaa2f969d6da163874b0dd7ab69e000" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao11Datas/aplication/DataProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao11Datas/aplication/DataProgram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,13 +59,26 @@
       <recent name="secao9.model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProgramCompareTo">
-    <configuration name="ClientRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao19.application.ClientRunner" />
+  <component name="RunManager" selected="Application.DataProgram">
+    <configuration name="DataProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao11Datas.aplication.DataProgram" />
       <module name="curso_java_nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao19.application.*" />
+          <option name="PATTERN" value="secao11Datas.aplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataProgram02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao11Datas.aplication.DataProgram02" />
+      <module name="curso_java_nelio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="secao11Datas.aplication.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProgramSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao19.application.ProgramSet" />
+    <configuration name="ProgramLogs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao19.application.ProgramLogs" />
       <module name="curso_java_nelio" />
       <extension name="coverage">
         <pattern>
@@ -129,26 +125,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShapRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao19.application.ShapRunner" />
-      <module name="curso_java_nelio" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="secao19.application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DataProgram" />
+        <item itemvalue="Application.DataProgram02" />
+        <item itemvalue="Application.ProgramLogs" />
         <item itemvalue="Application.ProgramCompareTo" />
         <item itemvalue="Application.ProgramSetUID" />
-        <item itemvalue="Application.ProgramSet" />
-        <item itemvalue="Application.ClientRunner" />
-        <item itemvalue="Application.ShapRunner" />
       </list>
     </recent_temporary>
   </component>
