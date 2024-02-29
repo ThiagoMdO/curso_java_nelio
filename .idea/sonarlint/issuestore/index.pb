@@ -394,3 +394,5 @@ X
 (src/secao19/application/ProgramLogs.java,9\2\92ab765e417d87c271cdf5900a1378d376cc028a
 X
 (src/secao19/model/entities/LogEntry.java,2\0\20bd6bbfc475b00ff03a568c3448b24433273e24
+Z
+*src/secao19/application/ProgramCursos.java,8\1\81785eff759a66052644d3c4cee5a2c2a3ba4981
