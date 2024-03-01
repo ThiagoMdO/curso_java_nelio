@@ -1,8 +1,0 @@
-
-m
-java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8¼ÿš÷×1
-t
-java:S1104"WMake grossSalary a static final constant or non-public and provide accessors if needed.(Ì²äÑ8à–÷×1
-l
-java:S1104	"OMake tax a static final constant or non-public and provide accessors if needed.(£êß»8à–÷×1
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âÆ“8à–÷×1

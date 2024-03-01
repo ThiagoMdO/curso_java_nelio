@@ -1,12 +1,0 @@
-
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Š¼Ç8¿¦ãÜ1
-G	java:S106"+Replace this use of System.out by a logger.(ÒÎáı8É¦ãÜ1
-L	java:S106"+Replace this use of System.out by a logger.(ò¹íúıÿÿÿÿ8É¦ãÜ1
-G	java:S106"+Replace this use of System.out by a logger.(ˆ†ß˜8É¦ãÜ1
-L	java:S106"+Replace this use of System.out by a logger.(ç‚à’şÿÿÿÿ8É¦ãÜ1
-L	java:S106"+Replace this use of System.out by a logger.(ß½ÀÎúÿÿÿÿ8É¦ãÜ1
-L	java:S106""+Replace this use of System.out by a logger.(±½ Ëøÿÿÿÿ8Ê¦ãÜ1
-L	java:S106'"+Replace this use of System.out by a logger.(»÷›Ìûÿÿÿÿ8Ê¦ãÜ1
-G	java:S106+"+Replace this use of System.out by a logger.(°¼Ğ¼8¯åøÜ1
-L
-java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Ì¦ãÜ1

@@ -1,18 +1,0 @@
-
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›Ÿ¥É8«üÖØ1
-a
-java:S1854"?Remove this useless assignment to local variable "newQuantity".(ú¬·Ïıÿÿÿÿ8§ Ø1
-L	java:S106"+Replace this use of System.out by a logger.(ÿ‡ŸÚÿÿÿÿÿ8²üÖØ1
-G	java:S106"+Replace this use of System.out by a logger.(Ôç¢×8²üÖØ1
-G	java:S106"+Replace this use of System.out by a logger.(·ÏÉ8ØÙØ1
-G	java:S106"+Replace this use of System.out by a logger.(ØÜ¬8·ºÚØ1
-R
-java:S1481"0Remove this unused "newQuantity" local variable.(ú¬·Ïıÿÿÿÿ8‘§ Ø1
-G	java:S106"+Replace this use of System.out by a logger.(Íè¢î8à¿ÜØ1
-G	java:S106"+Replace this use of System.out by a logger.(îèµ8üòßØ1
-G	java:S106 "+Replace this use of System.out by a logger.(îèµ8âàØ1
-G	java:S106!"+Replace this use of System.out by a logger.(îèµ8âàØ1
-S
-java:S1128"1Remove this unused import 'secao9.model.Product'.(óœ÷Ìøÿÿÿÿ8’§ Ø1
-Q
-java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8’§ Ø1

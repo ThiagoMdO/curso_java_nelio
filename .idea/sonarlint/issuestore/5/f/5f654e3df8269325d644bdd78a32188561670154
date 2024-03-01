@@ -1,6 +1,0 @@
-
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—ÀÕ«ùÿÿÿÿ8º¸©‰Ý1
-k
-java:S4201"IRemove this unnecessary null check; "instanceof" returns false for nulls.(¹¯óêúÿÿÿÿ8¡¹©‰Ý1
-o
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.( ¤¸Ü8¡¹©‰Ý1
