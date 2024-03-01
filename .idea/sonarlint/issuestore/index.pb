@@ -396,3 +396,7 @@ X
 (src/secao19/model/entities/LogEntry.java,2\0\20bd6bbfc475b00ff03a568c3448b24433273e24
 Z
 *src/secao19/application/ProgramCursos.java,8\1\81785eff759a66052644d3c4cee5a2c2a3ba4981
+W
+'src/secao19/application/ProgramMap.java,8\6\86dce0f97ae82f8e4c35d966f00c40b5b20b8352
+^
+.src/secao19/application/ProgramEstoqueMap.java,5\9\596a6f43e7ec7fc5bba2b0218a649e13746e207e
