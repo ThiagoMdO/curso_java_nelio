@@ -400,3 +400,5 @@ W
 'src/secao19/application/ProgramMap.java,8\6\86dce0f97ae82f8e4c35d966f00c40b5b20b8352
 ^
 .src/secao19/application/ProgramEstoqueMap.java,5\9\596a6f43e7ec7fc5bba2b0218a649e13746e207e
+[
++src/secao19/application/ProgramEleicao.java,9\a\9aafceaf5ec28906b912a281d1e6536b2aff4078

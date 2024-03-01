@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44cfb215-7e32-46b2-8778-864b1eeaeb3d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/secao19/application/ProgramEstoqueMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao19/application/ProgramMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao19/application/ProgramEleicao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -58,7 +56,7 @@
       <recent name="secao9.model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProgramEstoqueMap">
+  <component name="RunManager" selected="Application.ProgramEleicao">
     <configuration name="ClientRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="secao19.application.ClientRunner" />
       <module name="curso_java_nelio" />
@@ -79,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProgramCursos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao19.application.ProgramCursos" />
+    <configuration name="ProgramEleicao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao19.application.ProgramEleicao" />
       <module name="curso_java_nelio" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProgramEleicao" />
         <item itemvalue="Application.ProgramEstoqueMap" />
         <item itemvalue="Application.ProgramMap" />
         <item itemvalue="Application.ClientRunner" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ProgramCursos" />
       </list>
     </recent_temporary>
   </component>
