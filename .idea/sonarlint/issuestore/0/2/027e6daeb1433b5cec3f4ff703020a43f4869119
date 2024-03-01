@@ -1,0 +1,14 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëÕêëşÿÿÿÿ8û¶ª¦Û1
+G	java:S106"+Replace this use of System.out by a logger.(Â¤´8è·ª¦Û1
+G	java:S106"+Replace this use of System.out by a logger.(â¤”8é·ª¦Û1
+G	java:S106"+Replace this use of System.out by a logger.(…½ÙŸ8é·ª¦Û1
+G	java:S106"+Replace this use of System.out by a logger.(…½ÙŸ8é·ª¦Û1
+G	java:S106#"+Replace this use of System.out by a logger.(ä”ç†8ê·ª¦Û1
+L	java:S106'"+Replace this use of System.out by a logger.(§¨öªıÿÿÿÿ8í·ª¦Û1
+L	java:S106*"+Replace this use of System.out by a logger.(Ô¨†ûÿÿÿÿ8í·ª¦Û1
+L	java:S1063"+Replace this use of System.out by a logger.(¾­Øÿÿÿÿÿ8î·ª¦Û1
+L	java:S106?"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8î·ª¦Û1
+G	java:S106A"+Replace this use of System.out by a logger.(ñÀŸ´8Ò­¦Û1
+Y
+java:S1128"7Remove this unused import 'javax.sound.midi.Soundbank'.(µÊøÿÿÿÿ8Æ¶·¦Û1

@@ -1,0 +1,18 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùÀû¦ÿÿÿÿÿ8•²«ß1
+U
+java:S1854"8Remove this useless assignment to local variable "ft02".(¥şÖÈ8˜•²«ß1
+F
+java:S1481")Remove this unused "ft02" local variable.(¥şÖÈ8š•²«ß1
+L	java:S106"+Replace this use of System.out by a logger.(œš¸Üşÿÿÿÿ8œ•²«ß1
+L	java:S106 "+Replace this use of System.out by a logger.(£Í¤Œúÿÿÿÿ8•²«ß1
+L	java:S106!"+Replace this use of System.out by a logger.(¿ïœÒùÿÿÿÿ8•²«ß1
+L	java:S106""+Replace this use of System.out by a logger.(çÊŒƒıÿÿÿÿ8•²«ß1
+G	java:S106#"+Replace this use of System.out by a logger.(®¥Ä8•²«ß1
+G	java:S106$"+Replace this use of System.out by a logger.(úĞô8•²«ß1
+G	java:S106%"+Replace this use of System.out by a logger.(„éÚò8•²«ß1
+G	java:S106&"+Replace this use of System.out by a logger.(£Œ±©8•²«ß1
+L	java:S106'"+Replace this use of System.out by a logger.(²û”“şÿÿÿÿ8•²«ß1
+G	java:S106("+Replace this use of System.out by a logger.(ÒÂ£ñ8Ÿ•²«ß1
+G	java:S106)"+Replace this use of System.out by a logger.(ò™ÌÀ8Ÿ•²«ß1
+G	java:S106*"+Replace this use of System.out by a logger.(ËôÎÉ8Ğä¸«ß1

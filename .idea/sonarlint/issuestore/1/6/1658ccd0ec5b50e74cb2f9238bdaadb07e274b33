@@ -1,0 +1,15 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ñ¤ìÜüÿÿÿÿ8”ÈØïÚ1
+W
+java:S1854":Remove this useless assignment to local variable "dataC2".(×ù€»8Íù„ğÚ1
+[
+java:S1854"9Remove this useless assignment to local variable "date2".(°Ø™Áúÿÿÿÿ8Íù„ğÚ1
+]	java:S125"<This block of commented-out lines of code should be removed.(îƒüÿÿÿÿ8—ÈØïÚ1
+L	java:S106"+Replace this use of System.out by a logger.(¨ô¢¨ıÿÿÿÿ8˜ÈØïÚ1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8‘ÄƒğÚ1
+L
+java:S1481"*Remove this unused "date2" local variable.(°Ø™Áúÿÿÿÿ8Ïù„ğÚ1
+H
+java:S1481"+Remove this unused "dataC2" local variable.(×ù€»8Ïù„ğÚ1
+]	java:S125"<This block of commented-out lines of code should be removed.(îƒüÿÿÿÿ8‘ÄƒğÚ1
+G	java:S106""+Replace this use of System.out by a logger.(¢°°­8Ïù„ğÚ1

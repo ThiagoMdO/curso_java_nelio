@@ -1,0 +1,11 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê„±ô8‰ÅáâÖ1
+L	java:S106"+Replace this use of System.out by a logger.(Ôµªûÿÿÿÿ8’ÅáâÖ1
+L	java:S106"+Replace this use of System.out by a logger.(›“Ø¾ıÿÿÿÿ8’ÅáâÖ1
+L	java:S106"+Replace this use of System.out by a logger.(ô‡Éºıÿÿÿÿ8“ÅáâÖ1
+m
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(æŒ¨{8“ÅáâÖ1
+F	java:S106"+Replace this use of System.out by a logger.(æŒ¨{8“ÅáâÖ1
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(‚ËÍòúÿÿÿÿ8“ÅáâÖ1
+L	java:S106"+Replace this use of System.out by a logger.(‚ËÍòúÿÿÿÿ8•ÅáâÖ1

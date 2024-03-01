@@ -1,0 +1,19 @@
+
+m
+java:S1192"KDefine a constant instead of duplicating this literal "dd/MM/yyyy" 4 times.(ı•ìêûÿÿÿÿ8Ñİ”Ü1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Š¼Ç8Ñİ”Ü1
+G	java:S106"+Replace this use of System.out by a logger.(İéÛé8ıİ”Ü1
+G	java:S106"+Replace this use of System.out by a logger.(­ñŠË8şİ”Ü1
+G	java:S106"+Replace this use of System.out by a logger.(å™¡ô8şİ”Ü1
+L	java:S106""+Replace this use of System.out by a logger.(Ö¾›úÿÿÿÿ8ÿİ”Ü1
+L	java:S106$"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÿİ”Ü1
+F	java:S106&"+Replace this use of System.out by a logger.(©ôÁ8ÿİ”Ü1
+G	java:S106'"+Replace this use of System.out by a logger.(­ñŠË8ÿİ”Ü1
+G	java:S106*"+Replace this use of System.out by a logger.(å™¡ô8ÿİ”Ü1
+L	java:S106/"+Replace this use of System.out by a logger.(Ö¾›úÿÿÿÿ8€Ş”Ü1
+F	java:S1063"+Replace this use of System.out by a logger.(öüØu8€Ş”Ü1
+G	java:S1065"+Replace this use of System.out by a logger.(İâ×’8€Ş”Ü1
+G	java:S1067"+Replace this use of System.out by a logger.(ï¹³8Äç˜Ü1
+G	java:S1069"+Replace this use of System.out by a logger.(ÙÏê•8©Ü1
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Ş”Ü1

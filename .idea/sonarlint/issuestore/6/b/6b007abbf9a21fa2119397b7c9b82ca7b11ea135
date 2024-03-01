@@ -1,0 +1,16 @@
+
+l
+java:S1192$"QDefine a constant instead of duplicating this literal "d03 formatted = " 3 times.(±¬¾éÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùÀû¦ÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(žü†ûýÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(›Š¦èüÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¼•ÿÀùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(€§ï—ùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(³¾Âþ
+E	java:S106 "+Replace this use of System.out by a logger.(ÒÛ°öúÿÿÿÿ
+E	java:S106""+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+E	java:S106#"+Replace this use of System.out by a logger.(Óæûªûÿÿÿÿ
+E	java:S106$"+Replace this use of System.out by a logger.(±¬¾éÿÿÿÿÿ
+E	java:S106%"+Replace this use of System.out by a logger.( µõ…þÿÿÿÿ
+E	java:S106&"+Replace this use of System.out by a logger.(û·ˆëùÿÿÿÿ

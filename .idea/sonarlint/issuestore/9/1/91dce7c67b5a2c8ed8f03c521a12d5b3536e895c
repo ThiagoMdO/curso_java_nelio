@@ -1,0 +1,5 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Íîo
+i	java:S116"MRename this field "PI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Ş•8›¬¯ı×1
+>
+java:S1170"!Make this final field static too.(‹Ş•8œ¬¯ı×1

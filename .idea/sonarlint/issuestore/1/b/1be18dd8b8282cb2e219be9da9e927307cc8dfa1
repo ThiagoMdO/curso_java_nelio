@@ -1,0 +1,11 @@
+
+m
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8¸‚Šü×1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âÆ“8¹‚Šü×1
+L	java:S106"+Replace this use of System.out by a logger.(ş¥ÆŞıÿÿÿÿ8¿‚Šü×1
+L	java:S106"+Replace this use of System.out by a logger.(Ñ’ì¶şÿÿÿÿ8¿‚Šü×1
+L	java:S106"+Replace this use of System.out by a logger.(¹Ø°ÿÿÿÿÿ8À‚Šü×1
+G	java:S106"+Replace this use of System.out by a logger.(Ï¿Ã8À‚Šü×1
+G	java:S106"+Replace this use of System.out by a logger.(Ï¿Ã8¸‰‹ü×1
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8À‚Šü×1

@@ -1,0 +1,24 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ñ¤ìÜüÿÿÿÿ8ß—Û1
+G	java:S106"+Replace this use of System.out by a logger.(²Î¥ú8å—Û1
+G	java:S106"+Replace this use of System.out by a logger.(Ôç¢×8å—Û1
+G	java:S106"+Replace this use of System.out by a logger.(Ş…ºù8å—Û1
+G	java:S106"+Replace this use of System.out by a logger.(ãâõğ8å—Û1
+L	java:S106!"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8æ—Û1
+G	java:S106""+Replace this use of System.out by a logger.(®¡¡©8æ—Û1
+G	java:S106#"+Replace this use of System.out by a logger.(ú·Éè8æ—Û1
+L	java:S1067"+Replace this use of System.out by a logger.(è€À—ıÿÿÿÿ8ç—Û1
+]	java:S125&"<This block of commented-out lines of code should be removed.( óâèüÿÿÿÿ8ç—Û1
+s
+java:S3457?"Q%n should be used in place of \n to produce the platform-specific line separator.(ï×›ıÿÿÿÿ8è—Û1
+L	java:S106?"+Replace this use of System.out by a logger.(ï×›ıÿÿÿÿ8è—Û1
+L	java:S106@"+Replace this use of System.out by a logger.(Ü¦†ãúÿÿÿÿ8è—Û1
+L	java:S106C"+Replace this use of System.out by a logger.(»Ûı‰ûÿÿÿÿ8è—Û1
+L	java:S106F"+Replace this use of System.out by a logger.(†úÀúÿÿÿÿ8é—Û1
+L	java:S106S"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8é—Û1
+F	java:S106T"+Replace this use of System.out by a logger.(ç¶8é—Û1
+G	java:S106U"+Replace this use of System.out by a logger.(¡¼†Í8é—Û1
+F	java:S106V"+Replace this use of System.out by a logger.(Æˆ—8é—Û1
+L	java:S106W"+Replace this use of System.out by a logger.(°±§ûşÿÿÿÿ8ê—Û1
+G	java:S106["+Replace this use of System.out by a logger.(Áªø8ê—Û1
+L	java:S106]"+Replace this use of System.out by a logger.(âÉÿ©üÿÿÿÿ8ê—Û1
