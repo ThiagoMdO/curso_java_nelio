@@ -26,7 +26,7 @@ public class ConsumerRunner {
 //        list.forEach(Product::staticPriceUpdate);
 
         //Reference Method without static method
-//        list.forEach(Product::noStaticPriceUpdate);
+//        list.forEach(Product::nonStaticPriceUpdate);
 
 
         //lambda expression declared

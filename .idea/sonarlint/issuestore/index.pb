@@ -416,9 +416,9 @@ V
 &src/secao20/util/ProductPredicate.java,f\e\fe7afa841913ab12b66bb8a98d24b32da1a4ebf4
 [
 +src/secao20/application/ConsumerRunner.java,a\7\a7a0c4e1c74b1b57d3d99ea49a8947f75d6126df
-U
-%src/secao20/util/ProductConsumer.java,f\b\fb51df3869fd22ca0ce7a63406e50b85bf0b6255
-_
-/src/secao20/util/PriceUpdatProductConsumer.java,1\b\1b1b1b82003d12a2acc789353ebf52c04bd7b80c
 `
 0src/secao20/util/PriceUpdateProductConsumer.java,f\b\fbbb62d544010431ef842087306b1729d7a4f88b
+[
++src/secao20/application/FunctionRunner.java,2\4\2499e751a26c7068bfe3e61cb0738dd7b34393e6
+a
+1src/secao20/util/UperCaseNameProductFunction.java,c\a\cadc9ce85b82406848abc2f9c218d8a679d56ff1
