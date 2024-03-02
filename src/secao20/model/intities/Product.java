@@ -34,9 +34,17 @@ public class Product /*implements Comparable<Product>*/{
         return price <= 100.00;
     }
 
+    public static void staticPriceUpdate(Product p){
+        p.setPrice(p.getPrice() * 1.1);
+    }
+
+    public void noStaticPriceUpdate(){
+        price = price * 1.1;
+    }
+
     @Override
     public String toString() {
-        return name + ", " + price;
+        return name + ", " + String.format("%.2f",price);
     }
 
 

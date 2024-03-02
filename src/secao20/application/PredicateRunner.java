@@ -38,6 +38,7 @@ public class PredicateRunner {
 //        Predicate<Product> pred = p -> p.getPrice() < 100.0;
 //        list.removeIf(pred);
 
+        //Expressão lambda inline
         list.removeIf(p -> p.getPrice() < 100.00);
 
 
