@@ -410,3 +410,7 @@ Y
 )src/secao20/application/MyComparator.java,9\8\9886175dea553868b976e9872227b19d4232a57a
 k
 ;src/secao20/application/TransparenciaReferencialRunner.java,f\0\f0c2c12a8b55249f006819e143a2608baf43f8ec
+\
+,src/secao20/application/PredicateRunner.java,0\1\01e390f1b9cc93408c160daefe46965f9bb57c62
+V
+&src/secao20/util/ProductPredicate.java,f\e\fe7afa841913ab12b66bb8a98d24b32da1a4ebf4
