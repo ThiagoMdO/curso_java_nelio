@@ -402,3 +402,11 @@ W
 .src/secao19/application/ProgramEstoqueMap.java,5\9\596a6f43e7ec7fc5bba2b0218a649e13746e207e
 [
 +src/secao19/application/ProgramEleicao.java,9\a\9aafceaf5ec28906b912a281d1e6536b2aff4078
+T
+$src/secao20/application/Program.java,6\2\6230d150322e1385f209075b5b77745f29e43dc2
+W
+'src/secao20/model/intities/Product.java,4\9\49b784b6ae83211f1a14a2dd20ce804fa9c80d4d
+Y
+)src/secao20/application/MyComparator.java,9\8\9886175dea553868b976e9872227b19d4232a57a
+k
+;src/secao20/application/TransparenciaReferencialRunner.java,f\0\f0c2c12a8b55249f006819e143a2608baf43f8ec

@@ -28,12 +28,22 @@ public class Program {
         //Usando a classe generica
         PrintServiceGenerics<Integer> printService = new PrintServiceGenerics();
         for (int i = 1; i <= qtdNumbers; i++) {
-            System.out.printf("number #%d: ", i);
+            System.out.printf("number #%d numbers: ", i);
             printService.addValue(scanner.nextInt());
         }
 
+        scanner.nextLine();
+        //Usando a classe generica String
+        PrintServiceGenerics<String> printServiceString = new PrintServiceGenerics();
+        for (int i = 1; i <= qtdNumbers; i++) {
+            System.out.printf("number #%d Strings: ", i);
+            printServiceString.addValue(scanner.nextLine());
+        }
+
         printService.print();
+        printServiceString.print();
         System.out.println("First: " + printService.first());
+        System.out.println("First: " + printServiceString.first());
 
 
 

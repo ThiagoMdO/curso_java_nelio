@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44cfb215-7e32-46b2-8778-864b1eeaeb3d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/secao19/application/ProgramEleicao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao20/application/MyComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao20/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao20/application/TransparenciaReferencialRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao20/model/intities/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao19/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao19/application/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,9 +60,9 @@
       <recent name="secao9.model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProgramEleicao">
-    <configuration name="ClientRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao19.application.ClientRunner" />
+  <component name="RunManager" selected="Application.secao20.application.Program">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao19.application.Program" />
       <module name="curso_java_nelio" />
       <extension name="coverage">
         <pattern>
@@ -66,13 +70,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="curso_java_nelio" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -103,12 +100,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProgramMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao19.application.ProgramMap" />
+    <configuration name="TransparenciaReferencialRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao20.application.TransparenciaReferencialRunner" />
       <module name="curso_java_nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao19.application.*" />
+          <option name="PATTERN" value="secao20.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="secao20.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao20.application.Program" />
+      <module name="curso_java_nelio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="secao20.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.secao20.application.Program" />
+        <item itemvalue="Application.TransparenciaReferencialRunner" />
+        <item itemvalue="Application.Program" />
         <item itemvalue="Application.ProgramEleicao" />
         <item itemvalue="Application.ProgramEstoqueMap" />
-        <item itemvalue="Application.ProgramMap" />
-        <item itemvalue="Application.ClientRunner" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
