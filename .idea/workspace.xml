@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44cfb215-7e32-46b2-8778-864b1eeaeb3d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/secao20/application/ProgramStreamRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao20/application/ProgramExercicioStreamRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao20/application/ProgramPipelineRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -56,20 +57,7 @@
       <recent name="secao9.model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProgramStreamRunner">
-    <configuration name="ConsumerRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao20.application.ConsumerRunner" />
-      <module name="curso_java_nelio" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="secao20.application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ProgramExercicioStreamRunner">
     <configuration name="FunctionRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="secao20.application.FunctionRunner" />
       <module name="curso_java_nelio" />
@@ -83,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PredicateRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao20.application.PredicateRunner" />
+    <configuration name="ProductRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao20.application.ProductRunner" />
       <module name="curso_java_nelio" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +84,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao20.application.ProductRunner" />
+    <configuration name="ProgramExercicioStreamRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao20.application.ProgramExercicioStreamRunner" />
+      <module name="curso_java_nelio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="secao20.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramPipelineRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao20.application.ProgramPipelineRunner" />
       <module name="curso_java_nelio" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProgramExercicioStreamRunner" />
+        <item itemvalue="Application.ProgramPipelineRunner" />
         <item itemvalue="Application.ProgramStreamRunner" />
         <item itemvalue="Application.FunctionRunner" />
         <item itemvalue="Application.ProductRunner" />
-        <item itemvalue="Application.ConsumerRunner" />
-        <item itemvalue="Application.PredicateRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -191,6 +192,11 @@
           <url>file://$PROJECT_DIR$/src/secao18/model/services/InterestService.java</url>
           <line>12</line>
           <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/secao20/application/ProgramExercicioStreamRunner.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="42" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.InputMismatchException" package="java.util" />

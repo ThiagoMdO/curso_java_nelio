@@ -428,3 +428,7 @@ Z
 *src/secao20/application/ProductRunner.java,5\0\50545b38d1837b215394dcfce561b87a48fb46dd
 `
 0src/secao20/application/ProgramStreamRunner.java,0\c\0c465ad3dff73e85a6fb48143ce464c6e572d95a
+b
+2src/secao20/application/ProgramPipelineRunner.java,5\9\59d52f050cf7b15c185040f1baf4ab1e2316628a
+i
+9src/secao20/application/ProgramExercicioStreamRunner.java,5\1\512b89f7c4d7ae2edd63cc4a91267033de61bd6a
