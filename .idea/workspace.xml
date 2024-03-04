@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44cfb215-7e32-46b2-8778-864b1eeaeb3d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/secao20/application/ProgramExercicioStreamRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao20/application/ProgramPipelineRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao20/application/EmployeeRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao20/model/intities/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao20/application/ProgramExercicioStreamRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao20/application/ProgramExercicioStreamRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +58,9 @@
       <recent name="secao9.model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProgramExercicioStreamRunner">
-    <configuration name="FunctionRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao20.application.FunctionRunner" />
+  <component name="RunManager" selected="Application.EmployeeRunner">
+    <configuration name="EmployeeRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao20.application.EmployeeRunner" />
       <module name="curso_java_nelio" />
       <extension name="coverage">
         <pattern>
@@ -71,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao20.application.ProductRunner" />
+    <configuration name="FunctionRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao20.application.FunctionRunner" />
       <module name="curso_java_nelio" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EmployeeRunner" />
         <item itemvalue="Application.ProgramExercicioStreamRunner" />
         <item itemvalue="Application.ProgramPipelineRunner" />
         <item itemvalue="Application.ProgramStreamRunner" />
         <item itemvalue="Application.FunctionRunner" />
-        <item itemvalue="Application.ProductRunner" />
       </list>
     </recent_temporary>
   </component>

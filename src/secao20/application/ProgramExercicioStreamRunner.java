@@ -44,7 +44,7 @@ public class ProgramExercicioStreamRunner {
 
             System.out.println("Average price: " + String.format("%.2f", avgProducts));
             products.forEach(System.out::println);
-            
+
         }catch (IOException e){
             System.out.println("Error: " + e.getMessage());
         }finally {

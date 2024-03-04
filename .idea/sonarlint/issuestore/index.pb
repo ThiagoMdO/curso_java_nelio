@@ -432,3 +432,7 @@ b
 2src/secao20/application/ProgramPipelineRunner.java,5\9\59d52f050cf7b15c185040f1baf4ab1e2316628a
 i
 9src/secao20/application/ProgramExercicioStreamRunner.java,5\1\512b89f7c4d7ae2edd63cc4a91267033de61bd6a
+X
+(src/secao20/model/intities/Employee.java,8\0\804e6587c739ab09bd7470d57b6902cfd3256ccb
+[
++src/secao20/application/EmployeeRunner.java,f\9\f956b6cc61e03c956efc970890580aa83976cd21
