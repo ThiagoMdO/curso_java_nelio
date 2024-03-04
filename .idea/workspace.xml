@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44cfb215-7e32-46b2-8778-864b1eeaeb3d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/secao20/application/FunctionRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao20/util/UperCaseNameProductFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao20/application/ProductRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao20/model/service/ProductService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/secao20/application/ConsumerRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao20/application/ConsumerRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/secao20/model/intities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao20/model/intities/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransparenciaReferencialRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao20.application.TransparenciaReferencialRunner" />
+    <configuration name="ProductRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao20.application.ProductRunner" />
       <module name="curso_java_nelio" />
       <extension name="coverage">
         <pattern>
@@ -128,10 +126,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.FunctionRunner" />
+        <item itemvalue="Application.ProductRunner" />
         <item itemvalue="Application.ConsumerRunner" />
         <item itemvalue="Application.PredicateRunner" />
         <item itemvalue="Application.secao20.application.Program" />
-        <item itemvalue="Application.TransparenciaReferencialRunner" />
       </list>
     </recent_temporary>
   </component>

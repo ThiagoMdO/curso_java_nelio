@@ -422,3 +422,7 @@ V
 +src/secao20/application/FunctionRunner.java,2\4\2499e751a26c7068bfe3e61cb0738dd7b34393e6
 a
 1src/secao20/util/UperCaseNameProductFunction.java,c\a\cadc9ce85b82406848abc2f9c218d8a679d56ff1
+]
+-src/secao20/model/service/ProductService.java,0\d\0d2ae10a55384efcc698bd1b6394ff87af96429a
+Z
+*src/secao20/application/ProductRunner.java,5\0\50545b38d1837b215394dcfce561b87a48fb46dd
