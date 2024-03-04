@@ -426,3 +426,5 @@ a
 -src/secao20/model/service/ProductService.java,0\d\0d2ae10a55384efcc698bd1b6394ff87af96429a
 Z
 *src/secao20/application/ProductRunner.java,5\0\50545b38d1837b215394dcfce561b87a48fb46dd
+`
+0src/secao20/application/ProgramStreamRunner.java,0\c\0c465ad3dff73e85a6fb48143ce464c6e572d95a
